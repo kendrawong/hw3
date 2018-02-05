@@ -1,8 +1,12 @@
 //LeWitt 295
 //http://massmoca.org/event/walldrawing295/
 
+createCanvas(340, 340);
+background("black"); 
+stroke("white");
 strokeWeight(3);
 noFill();
+
 ellipse((width/2), (width/2), width, height);
 rect(0, 0, width, height);
 rect(0, 0, 70, height);

@@ -25,5 +25,5 @@ function kendraPatch(x, y) {
 background(255);
 
 //location of patches
-yourPatch(0, 0);
-yourPatch(width-100, height-100);
+kendraPatch(0, 0);
+kendraPatch(width-100, height-100);
